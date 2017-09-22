@@ -1,2 +1,5 @@
 source 'https://rubygems.org'
 gem 'github-pages'
+gem 'rake'
+gem 'sass', '>=3.2'
+gem 'jekyll-redirect-from'
